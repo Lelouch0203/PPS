@@ -32,9 +32,3 @@ else:
     print(result)
             
     
-    
-    
-    
-    
-
-            
