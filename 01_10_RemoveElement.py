@@ -8,3 +8,4 @@ def removeElement(arr,val):
 arr=[3,3,2,2,3,1,3]
 val=3
 print(removeElement(arr,val))
+
