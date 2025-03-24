@@ -22,13 +22,6 @@ else:
     print(m2)
     
     print("Result:")
-    result =[]
-    
-    for i in range(r1):
-        row=[]
-        for j in range(c1):
-            row.append(m1[i][j]+m2[i][j])
-        result.append(row)
-    print(result)
+
             
     
